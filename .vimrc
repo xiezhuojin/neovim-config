@@ -31,6 +31,7 @@ let g:netrw_winsize = 25		" size of netrw
 " Universal setting
 set encoding=utf-8			" default encoding
 set ignorecase smartcase		" smartcase search
+set wildmenu				" enhance cmd completion
 set clipboard=unname			" system clipboard = uname register
 set number				" show line number
 set showmode				" show mode for cmd, line num, etc
